@@ -19,6 +19,7 @@ export default function Header() {
 
   return (
     <header id="main-header">
+      
       <div id="title">
         <img src={logoImg} alt="A restaurant" />
         <h1>QuickBite</h1>
